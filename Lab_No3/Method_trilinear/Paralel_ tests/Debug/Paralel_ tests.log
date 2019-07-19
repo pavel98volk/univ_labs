@@ -1,0 +1,21 @@
+﻿Build started 23/01/2017 18:29:10.
+     1>Project "C:\Users\Ole4ka\Documents\Visual Studio 2015\Projects\2 course\Las\No3_paralel\Method_trilinear\Paralel_ tests\Paralel_ tests.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /I"C:\Users\Ole4ka\Documents\Visual Studio 2015\Projects\2 course\Las\No3_paralel\Method_trilinear\Method_trilinear" /I"C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\UnitTest\include" /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _WINDLL /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Yu"stdafx.h" /Fp"Debug\Paralel_tests.pch" /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TP /analyze- /FC /errorReport:prompt unittest1.cpp
+         unittest1.cpp
+     1>c:\users\ole4ka\documents\visual studio 2015\projects\2 course\las\no3_paralel\method_trilinear\paralel_ tests\unittest1.cpp(42): warning C4996: '_itow': This function or variable may be unsafe. Consider using _itow_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+         c:\program files (x86)\windows kits\10\include\10.0.10150.0\ucrt\corecrt_wstdlib.h(67): note: see declaration of '_itow'
+     1>c:\users\ole4ka\documents\visual studio 2015\projects\2 course\las\no3_paralel\method_trilinear\paralel_ tests\unittest1.cpp(66): warning C4800: 'int': forcing value to bool 'true' or 'false' (performance warning)
+     1>c:\users\ole4ka\documents\visual studio 2015\projects\2 course\las\no3_paralel\method_trilinear\paralel_ tests\unittest1.cpp(80): warning C4996: 'wcscat': This function or variable may be unsafe. Consider using wcscat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+         c:\program files (x86)\windows kits\10\include\10.0.10150.0\ucrt\corecrt_wstring.h(101): note: see declaration of 'wcscat'
+     1>c:\users\ole4ka\documents\visual studio 2015\projects\2 course\las\no3_paralel\method_trilinear\paralel_ tests\unittest1.cpp(13): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+         c:\users\ole4ka\documents\visual studio 2015\projects\2 course\las\no3_paralel\method_trilinear\paralel_ tests\unittest1.cpp(120): note: see reference to function template instantiation 'void init<int,int,int,int,int,int,int,int>(float *,float,int,int,int,int,int,int,int,int)' being compiled
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Ole4ka\Documents\Visual Studio 2015\Projects\2 course\Las\No3_paralel\Method_trilinear\Debug\Paralel_tests.dll" /INCREMENTAL /NOLOGO /LIBPATH:"C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\UnitTest\lib" kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"C:\Users\Ole4ka\Documents\Visual Studio 2015\Projects\2 course\Las\No3_paralel\Method_trilinear\Debug\Paralel_tests.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Ole4ka\Documents\Visual Studio 2015\Projects\2 course\Las\No3_paralel\Method_trilinear\Debug\Paralel_tests.lib" /MACHINE:X86 /DLL Debug\stdafx.obj
+         Debug\unittest1.obj
+         Paralel_ tests.vcxproj -> C:\Users\Ole4ka\Documents\Visual Studio 2015\Projects\2 course\Las\No3_paralel\Method_trilinear\Debug\Paralel_tests.dll
+     1>Done Building Project "C:\Users\Ole4ka\Documents\Visual Studio 2015\Projects\2 course\Las\No3_paralel\Method_trilinear\Paralel_ tests\Paralel_ tests.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.56

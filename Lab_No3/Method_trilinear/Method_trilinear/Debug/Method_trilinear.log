@@ -1,0 +1,14 @@
+﻿Build started 23/01/2017 18:29:01.
+     1>Project "C:\Users\Ole4ka\Documents\Visual Studio 2015\Projects\2 course\Las\No3_paralel\Method_trilinear\Method_trilinear\Method_trilinear.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Yu"stdafx.h" /Fp"Debug\Method_trilinear.pch" /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TP /analyze- /errorReport:prompt Method_trilinear.cpp
+         Method_trilinear.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Ole4ka\Documents\Visual Studio 2015\Projects\2 course\Las\No3_paralel\Method_trilinear\Debug\Method_trilinear.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"C:\Users\Ole4ka\Documents\Visual Studio 2015\Projects\2 course\Las\No3_paralel\Method_trilinear\Debug\Method_trilinear.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Ole4ka\Documents\Visual Studio 2015\Projects\2 course\Las\No3_paralel\Method_trilinear\Debug\Method_trilinear.lib" /MACHINE:X86 Debug\Method_trilinear.obj
+         Debug\stdafx.obj
+         Method_trilinear.vcxproj -> C:\Users\Ole4ka\Documents\Visual Studio 2015\Projects\2 course\Las\No3_paralel\Method_trilinear\Debug\Method_trilinear.exe
+     1>Done Building Project "C:\Users\Ole4ka\Documents\Visual Studio 2015\Projects\2 course\Las\No3_paralel\Method_trilinear\Method_trilinear\Method_trilinear.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.80

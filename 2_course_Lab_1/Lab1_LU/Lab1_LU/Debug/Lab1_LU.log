@@ -1,0 +1,19 @@
+﻿Build started 21/01/2017 23:34:07.
+     1>Project "C:\Users\Ole4ka\Documents\Visual Studio 2015\Projects\2 course\Las\Lab1_LU\Lab1_LU\Lab1_LU.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Yu"stdafx.h" /Fp"Debug\Lab1_LU.pch" /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TP /analyze- /errorReport:prompt LU.cpp Lab1_LU.cpp
+         Lab1_LU.cpp
+         Generating Code...
+         Compiling...
+         LU.cpp
+         Generating Code...
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Ole4ka\Documents\Visual Studio 2015\Projects\2 course\Las\Lab1_LU\Debug\Lab1_LU.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"C:\Users\Ole4ka\Documents\Visual Studio 2015\Projects\2 course\Las\Lab1_LU\Debug\Lab1_LU.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Ole4ka\Documents\Visual Studio 2015\Projects\2 course\Las\Lab1_LU\Debug\Lab1_LU.lib" /MACHINE:X86 Debug\Lab1_LU.obj
+         Debug\LU.obj
+         Debug\stdafx.obj
+         Lab1_LU.vcxproj -> C:\Users\Ole4ka\Documents\Visual Studio 2015\Projects\2 course\Las\Lab1_LU\Debug\Lab1_LU.exe
+     1>Done Building Project "C:\Users\Ole4ka\Documents\Visual Studio 2015\Projects\2 course\Las\Lab1_LU\Lab1_LU\Lab1_LU.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.15

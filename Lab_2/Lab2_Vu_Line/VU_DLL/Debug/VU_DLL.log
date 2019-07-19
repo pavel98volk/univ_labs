@@ -1,0 +1,11 @@
+﻿Build started 23/01/2017 22:21:06.
+     1>Project "C:\Users\Ole4ka\Documents\Visual Studio 2015\Projects\2 course\Las\Lab2_Vu_Line\VU_DLL\VU_DLL.vcxproj" on node 2 (Build target(s)).
+     1>Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Ole4ka\Documents\Visual Studio 2015\Projects\2 course\Las\Lab2_Vu_Line\Debug\VU_DLL.dll" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"C:\Users\Ole4ka\Documents\Visual Studio 2015\Projects\2 course\Las\Lab2_Vu_Line\Debug\VU_DLL.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Ole4ka\Documents\Visual Studio 2015\Projects\2 course\Las\Lab2_Vu_Line\Debug\VU_DLL.lib" /MACHINE:X86 /DLL Debug\Vu.obj
+            Creating library C:\Users\Ole4ka\Documents\Visual Studio 2015\Projects\2 course\Las\Lab2_Vu_Line\Debug\VU_DLL.lib and object C:\Users\Ole4ka\Documents\Visual Studio 2015\Projects\2 course\Las\Lab2_Vu_Line\Debug\VU_DLL.exp
+         VU_DLL.vcxproj -> C:\Users\Ole4ka\Documents\Visual Studio 2015\Projects\2 course\Las\Lab2_Vu_Line\Debug\VU_DLL.dll
+     1>Done Building Project "C:\Users\Ole4ka\Documents\Visual Studio 2015\Projects\2 course\Las\Lab2_Vu_Line\VU_DLL\VU_DLL.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.42
